@@ -4,8 +4,8 @@
 **Languages & Tools:**  
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,django,vscode,git,github" />
 
-🌷 *She writes code like poetry — soft, curious, and full of purpose
-     Learning every day. Building with heart.*
+ *She writes code like poetry   soft, curious, and full of purpose🌷 *
+     *Learning every day. Building with heart.*
 
 
 ![Ayreen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYREEN1&show_icons=true&theme=rose_pine)
