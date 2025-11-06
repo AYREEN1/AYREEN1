@@ -1,5 +1,5 @@
 ###  Hi, I’m Ayreen!
-💻 CSE Student | Web & AI Developer | Dreamer & Builder   
+💻 CSE Student | Web & AI enthusiast | Dreamer & Builder   
 
 **Languages & Tools:**  
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,django,vscode,git,github" />
