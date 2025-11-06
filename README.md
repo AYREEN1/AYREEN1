@@ -4,8 +4,7 @@
 **Languages & Tools:**  
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,django,vscode,git,github" />
 
- She writes code like poetry   soft, curious, and full of purpose🌷 
-     
+She writes code like poetry — soft, curious, and full of purpose 🌷 <br>
 Learning every day. Building with heart.
 
 
