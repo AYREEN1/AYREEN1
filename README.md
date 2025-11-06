@@ -1,4 +1,15 @@
-## Hi there 👋
+### 🌸 Hi, I’m Ayreen!
+💻 CSE Student | Web & AI Developer | Dreamer & Builder ✨  
+
+**Languages & Tools:**  
+<img src="https://skillicons.dev/icons?i=html,css,js,python,vscode" />
+
+🌷 *Learning every day. Building with heart.*
+
+
+![Ayreen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYREEN1&show_icons=true&theme=rose_pine)
+
+
 
 <!--
 **AYREEN1/AYREEN1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
