@@ -2,7 +2,7 @@
 💻 CSE Student | Web & AI Developer | Dreamer & Builder   
 
 **Languages & Tools:**  
-<img src="https://skillicons.dev/icons?i=html,css,js,python,vscode" />
+<img src="https://skillicons.dev/icons?i=C,C++html,css,js,python,vscode" />
 
 🌷 *Learning every day. Building with heart.*
 
